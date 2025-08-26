@@ -1,5 +1,5 @@
 import {describe, it, test, expect} from "vitest"
-import {calculateAverage} from '../src/TDD.js'
+import {calculateAverage} from '../src/CalcAverage.js'
 
 describe('calculateAverage', ()=>{
     it('Should return NAN if given an empty array', ()=>{
