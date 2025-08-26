@@ -6,6 +6,7 @@ Integration test- Verify how different units or components of the application wo
 
 End to end Test-Test the whole application
 
+
 # Testing Frameworks Advantage
 1. Test runner
 2. Assertion libraries
@@ -48,6 +49,16 @@ Add this to the script:
 npm test
 
 npx vitest --watch
+
+Unitest VS TDD
+
+Unitest: write code first and test the code
+
+TDD: Test while in development of the code
+
+But the resulting code is always the same for both unit and TDD test
+
+
 
 
 
