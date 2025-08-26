@@ -1,5 +1,5 @@
 import {it, describe, expect, test} from "vitest"
-import {factorial} from './src/factorial.js'
+import {factorial} from '../src/factorial.js'
 
 describe('factorial', ()=>{
     it('should return 1 on 0', ()=>{
